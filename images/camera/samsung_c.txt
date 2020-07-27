@@ -1,0 +1,191 @@
+Image Sensor
+Type
+BSI CMOS
+Sensor Size
+23.5 x 15.7 mm
+Effective Pixel
+Approx. 28.2 MP
+Total Pixel
+Approx. 30.7 MP
+Colour Filter
+RGB Primary
+Lens Mount
+Mount
+Samsung NX Mount
+Usable Lens
+Samsung NX Lens (3D Lens Supported)
+Image Stabilisation
+Type
+Lens Shift (depends on Lens)
+Mode
+OIS Mode1 / Mode2 / OFF
+Distortion Correct
+LDC On / Off (depends on Lens)
+Display
+Type
+Super AMOLED w/Touch Screen
+Size
+76.6 mm (3.0")
+Resolution
+1036 k dots
+Field of View
+Approx. 100%
+Guide Display
+Yes
+ViewFinder
+Type
+EVF (OLED) w/ Eye Contact Sensor
+Resolution
+XGA Approx. 2,360K dots
+Field of View
+Approx. 100%
+Magnification
+Approx. 1.04 x (APS-C, 50 mm, -1 m?¹)
+Eyepoint
+Approx. 21 mm
+Diopter Adjustment
+Approx. -4.0 - +2.0 m?¹
+Focusing
+Type
+Hybrid
+Focusing point
+205 Points (Phase Detection AF), 209 Points (Contrast AF), AF Range: EV -4 - 20
+Mode
+Active AF, Continuous AF, MF, Single AF
+AF-Assist Lamp
+Yes
+Shutter
+Speed
+Auto: 1 / 8000 sec. - 1 / 4 sec. / Manual: 1 / 8000 sec. - 30 sec. / Bulb
+Exposure
+Metering System
+TTL 221 Block segment, Metering: Multi, Centre-weighted, Spot
+White Balance
+Micro Adjustment
+Each 7 steps in Amber / Blue / Green / Magenta axis
+Exposure
+Compensation
+Still: ±5 EV, Movie: ±3 EV (1 / 3 EV step)
+White Balance
+Mode
+Auto, Cloudy, Custom, Daylight, Flash, Fluorescent (W / N / D), K (Manual), Tungsten, Auto+Tungsten
+Exposure
+ISO Equivalent
+Auto, 100 - 25600 (1 EV or 1 / 3 EV step) (EXT.51200)
+Drive Mode
+Mode
+Single, Continuous, Self-timer, Bracket
+Continuous
+15 fps ? Maximum shooting speed is 15 frames per second. It will slow down after approx. JPEG 90 shots, RAW 25 shots. (May vary depending on the spec of memory card.)
+Bracket
+AE, WB, PW, Depth
+Self-Timer
+2 - 30 sec. (1 sec. step)
+Flash
+Type
+Built-in
+Mode
+1st Curtain, 2nd Curtain, Auto, Auto+Red-eye reduction, Fill-in, Fill-in+Red-eye reduction, Smart Flash, Off
+Guide Number
+11 (at ISO 100)
+Angle of View Coverage
+28 mm wide-angle (Equivalent to 35 mm)
+Sync Speed
+Less than 1 / 250 sec
+Flash Compensation
+-2 - +2EV, FEL
+External Flash
+Samsung External Flash available
+Synchro (Flash attachment)
+Hot Shoe
+Image Play
+Type
+Single image, Thumbnails (15 / 24 images), Slide show, Movie
+Edit
+Still
+Edit, Colour, Portrait, Smart Filter
+Effect
+Picture Wizard
+Calm, Classic, Cool, Custom (1 - 3), Forest, Landscape, Portrait, Retro, Standard, Vivid
+Smart Filter
+Vignetting, Minature (H), Miniature (V), WaterColour, Selective Colour (R / G / B / Y 4 Colours)
+Edit
+Movie
+Still Image Capture, Trim Movie
+Memory
+External Media
+SD, SDHC, SDXC (up to 64 GB), UHS-I, UHS-II support
+Still
+Mode
+Auto, Aperture Priority, Custom1, Custom2, Manual, Program, Shutter Priority, Smart
+Smart
+Beauty Face, Landscape, Action Freeze, Rich Tone, Panorama, Waterfall, Silhouette, Sunset, Night, Fireworks, Light Trace, Multi-Exposure, Samsung Auto Shot
+Image Size
+JPEG (3:2): 28 M (6480 x 4320), 13.9 M (4560 x 3040), 7.1 M (3264 x 2176), 3 M (2112 x 1408) / (16 : 9): 23.6 M(6480 x 3648), 11.9 M (4608 x 2592), 6.2 M (3328 x 1872), 2.4 M (2048 x 1152) / (1 : 1):18.7 M (4320 x 4320), 9.5 M (3088 x 3088), 4.7 M (2160 x 2160), 2 M (1408 x 1408) / RAW: 28 M (6480 x 4320)
+Quality
+Super Fine, Fine, Normal
+Colour Space
+Adobe RGB, sRGB
+Video
+Format
+MP4 (HEVC), AVI (MJPEG)
+Compression
+Movie: HEVC (H.265), MJPEG (VGA 30p only) Sound: AAC (MP4), Linear PCM (AVI)
+Mode
+Aperture Priority, Auto, Manual, Program, Shutter Priority, Smart, Custom 1, Custom 2
+Image Size
+4096x2160 (24fps Only), 3840x2160 (30fps, 24fps, 23.98fps), 1920x1080,1280x720,640x480
+Frame Rate
+120fps (FHD only), 60fps, 30fps, 24fps, 23.98fps NTSC / 100fps (FHD only), 50fps, 25fps, 24fps PAL
+Fast / Slow Movie
+X0.25 (1080 30 / 25 p, 720 30 / 25 p, 480 30 / 25 p only), x0.5 (1080 60 / 50 / 30 / 25 p, 720 60 / 50 / 30 / 25 p, 480 60 / 50 / 30 / 25 p only), x5, x10, x20
+Quality
+High Quality , Normal, Pro(DC 4K, UHD, FHD)
+Sound
+Stereo
+Languages
+33 Languages (Korean, English, Danish, German, Dutch, Swedish, Spanish, Italian, Czech, French, Portuguese (Portugal), Portuguese (Brazil), Polish, Finnish, Russian, Norsk, Simplified / Traditional Chinese, Arabic, Persian, Turkish, Hebrew, Thai, Greek, Hungarian, Estonian, Lithuanian, Latvian, Serbian, Croatian, Vietnamese, Romanian, Japanese)
+Network and Wireless Connectivity
+Wi-Fi
+IEEE 802.11b/g/n/ac
+NFC
+Yes
+Connectivity Support
+Bluetooth
+Interface
+Digital Output Connector
+USB 3.0
+Video Out
+HDMI (NTSC, PAL)
+External Release
+Yes
+USB
+Yes
+Audio
+3.5 mm Stereo MIC Input, 3.5 mm Stereo Output
+Battery
+Capacity
+1860 mAh
+Charging
+DC 5.0 V, 2 A via Micro USB port
+Still Image Capturing Time
+500 shot (CIPA Standard)
+Physical specification
+Dimension (WxHxD)
+138.5 x 102.3 x 65.8 mm
+Weight
+Approx. 550 g (body only)
+Operating Environment
+Operating Temperature
+0 - 40°C
+Operating Humidity
+5 - 85%
+Software
+Application
+I-Launcher (Web version included), Power Media Player, Samsung Movie Converter, Samsung DNG Converter, Adobe Photoshop Lightroom 5
+System Requirement
+Windows
+Windows 7 / 8 / 8.1, Intel 3rd Gen. i5 3.4 GHz or higher (equivalent AMD processor) recommended
+Macintosh
+Mac OS 10.7 or higher recommended
+HIDE ALL SPECS

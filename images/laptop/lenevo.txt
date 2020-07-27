@@ -1,0 +1,49 @@
+Processor ?	Up to 8th Generation Intel® Core™ i7-8650U with vPro® (1.9GHz, up to 4.2GHz with Turbo Boost, 8MB Cache)
+Operating System	
+Windows 10 Home - Lenovo recommends Windows 10 Pro
+Windows 10 Pro
+Graphics	Integrated Intel® UHD Graphics 620
+Memory ?	Up to 16 GB LPDDR3 2133 MHz (Onboard)
+Storage ?	Up to 1 TB PCIe-NVME SSD OPAL2.0
+Camera	
+HD 720p with ThinkShutter
+Optional: IR camera - required for facial recognition. ThinkShutter is not available on configurations with the IR Camera.
+Battery	
+Up to 15.4 hours*, integrated Li-ion 54 Whr with RapidCharge technology
+Display ?	
+14" FHD (1920 x 1080) IPS anti-reflective anti-smudge multi-touch, 300 nits
+14" WQHD (2560 x 1440) IPS anti-reflective anti-smudge multi-touch, 300 nits 
+14" HDR WQHD (2560 x 1440) IPS anti-reflective anti-smudge multi-touch with Dolby Vision, 500 nits
+Touch Screen	Standard
+Audio	
+Dolby® Audio™ Premium
+Noise-cancelling dual-array far-field microphones
+Security 	
+Fast Identity Online (FIDO) authentication capabilities
+dTPM 2.0
+Match-on-chip touch fingerprint reader 
+Windows Hello with facial recognition software (requires optional IR camera)
+ThinkShutter
+Kensington® lock slot
+Colors	
+Black with color coded hinges
+Silver with color coded hinges
+I/O (Input/Output) Ports	
+2 x USB 3.1 Gen 1 (one Always On)
+2 x USB 3.1 Gen 2 Type-C / Intel Thunderbolt 3 (Power Delivery, DisplayPort, Data transfer)
+HDMI
+Headphone / microphone combo jack
+4-in-1 MicroSD card reader (SD, MMC, SDHC, SDXC) 
+Ethernet Extension Connector (Dongle for Native Ethernet sold separately)
+Connectivity ?	WLAN: Intel® Dual-Band Wireless-AC (2 x 2)8265 + Bluetooth® 4.1
+WWAN	
+Fibocom L850-GL 4G LTE-A cat 9 (optional)
+*This product must be purchased with LTE configured and is not upgradeable.
+Dimensions (W x D x H)	333 mm x 229 mm x 17.05 mm / 13.11" x 9.01" x 0.67"
+Weight	Starting at 3.08 lbs (1.4 kg)
+What's in the box	
+ThinkPad X1 Yoga (3rd Gen)
+ThinkPad Active Pen
+65W Type-C Power Adapter
+Quick Start Guide
+1 Year Depot Base Warranty: Protects internal hardware only and requires mail-in repair

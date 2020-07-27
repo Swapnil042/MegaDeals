@@ -1,0 +1,431 @@
+Type 
+Digital, AF/AE single-lens reflex, camera
+
+Recording Media 
+CF card
+
+* Type I drive (Incompatible with Type II and Microdrive.)
+
+* High-speed writing possible with UDMA CF cards. 
+
+
+
+SD, SDHC, and SDXC memory cards
+
+* High-speed writing possible with UHS-I SD cards.
+
+* MultiMediaCard (MMC) cannot be used. (A card error will be displayed.)
+
+Image Format 
+Approx. 36 mm x 24mm (35mm Full-frame)
+
+Compatible Lenses 
+Canon EF Lenses (excluding EF-S Lenses)
+
+Lens Mount 
+Canon EF mount
+
+Back to TopImage Sensor
+
+Type 
+High-sensitivity, high-resolution, large single-plate CMOS sensor
+
+Pixels 
+Effective pixels: Approx. 50.60 megapixels
+Total pixels: 53.00 megapixels
+
+Pixel Unit 
+4.14µm square
+
+Total Pixels 
+Total Pixels: 53.00 megapixels
+
+Aspect Ratio 
+3:2 (Horizontal: Vertical)
+
+Color Filter System 
+RGB primary color filters
+
+Low Pass Filter 
+Fixed position in front of the image sensor
+
+Dust Deletion Feature 
+
+Self Cleaning Sensor Unit
+* Removes dust adhering to the low-pass filter.
+* At power ON: Performed for approx. 3 sec. (Operation indicated for 2 sec.)
+At power Off: Performed for approx. 2 sec.
+Manual operation: Performed for approx. 8.5 sec.
+* Magnesium fluoride coating on the low-pass filter surface applied.
+Dust Delete Data acquisition and appending
+* The coordinates of the dust adhering to the low-pass filter are detected by a test shot and appended to subsequent images.
+* The dust coordinate data appended to the image is used by the EOS software to automatically erase the dust spots.
+Manual cleaning
+Back to TopRecording System
+
+Recording Format 
+Design Rule for Camera File System 2.0 and EXIF 2.3
+
+Image Format 
+Still Image: JPEG, RAW (14-bit Canon Original), RAW, M-RAW, S-RAW, RAW+JPEG, M-RAW+JPEG, S-RAW+JPEG
+
+Video: MOV (Image data: H.264/MPEG-4 AVC; Audio: Linear PCM)
+
+File Size 
+Full Size 
+Large: Approx. 50.3 Megapixels (8688 x 5792)
+Medium 1: Approx. 39.3 Megapixels (7680 x 5120)
+Medium 2: Approx. 22.1 Megapixels (5760 x 3840)
+S1 (Small 1): Approx. 12.40 Megapixels (4320 x 2880)
+S2 (Small 2): Approx. 2.50 Megapixels (1920 x 1280)
+S3 (Small 3): Approx. 350,000 Pixels (720 x 480)
+RAW: Approx. 50.3 Megapixels (8688 x 5792)
+M-RAW: Approx. 28.50 Megapixels (6480 x 4320)
+S-RAW: Approx. 12.40 Megapixels (4320 x 2880)
+
+Crop - 1.3x 
+Large: Approx. 30.5 Megapixels (6768 x 4512)
+Medium 1: Approx. 24.1 Megapixels (6016 x 4000)
+Medium 2: Approx. 13.6 Megapixels (4512 x 3008)
+S1 (Small 1): Approx. 7.6 Megapixels (3376 x 2256)
+S2 (Small 2): Approx. 2.5 Megapixels (1920 x 1280)
+S3 (Small 3): Approx. 0.35 Megapixels (720 x 480)
+
+Crop - 1.6x 
+Large: Approx. 19.6 Megapixels (5424 x 3616)
+Medium 1: Approx. 15.4 Megapixels (4800 x 3200)
+Medium 2: Approx. 8.7 Megapixels (3616 x 2408)
+S1 (Small 1): Approx. 4.9 Megapixels (2704 x 1808)
+S2 (Small 2): Approx. 2.50 Megapixels (1920 x 1280)
+S3 (Small 3): Approx. 0.35 Megapixels (720 x 480)
+
+Aspect Ratio - 1:1
+Large: Approx. 33.5 Megapixels (5792 x 5792)
+Medium 1: Approx. 26.2 Megapixels (5120 x 5120)
+Medium 2: Approx. 14.7 Megapixels (3840 x 3840)
+S1 (Small 1): Approx. 8.3 Megapixels (2880 x 2880)
+S2 (Small 2): Approx. 1.6 Megapixels (1280 x 1280)
+S3 (Small 3): Approx. 0.23 Megapixels (480 x 480)
+
+Aspect Ratio: 4:3 
+Large: Approx. 44.7 Megapixels (7712 x 5792)
+Medium 1: Approx. 34.9 Megapixels (6816 x 5120)
+Medium 2: Approx. 19.7 Megapixels (5120 x 3480)
+S1 (Small 1): Approx. 11.1 Megapixels (3840 x 2880)
+S2 (Small 2): Approx. 2.2 Megapixels (1712 x 1280)
+S3 (Small 3): Approx. 0.31 Megapixels (640 x 480)
+
+Aspect Ratio: 16:9 
+Large: Approx. 42.5 Megapixels (8688 x 4888)
+Medium 1: Approx. 33.2 Megapixels (7680 x 4320)
+Medium 2: Approx. 18.7 Megapixels (5760 x 3240)
+S1 (Small 1): Approx. 10.5 Megapixels (4320 x 2432)
+S2 (Small 2): Approx. 2.1 Megapixels (1920 x 1080)
+S3 (Small 3): Approx. 0.28 Megapixels (720 x 408)
+
+Exact file sizes depend on the subject, ISO speed, Picture Style, etc.
+Recording Functions 
+
+Standard
+* Records to either the CF card or SD card.
+Auto switch card
+* When the current card becomes full, the camera switches to the other card automatically.
+Record separately
+* The CF card and SD card record the same image at a different image recording quality (L, M, S1, S2, S3, RAW, M-RAW, S-RAW)
+Record to multiple
+* Both the CF card and SD card record the same image at the same image recording quality. (Also applies to RAW+JPEG, M+JPEG, and SRAW+JPEG)
+Backup Recording 
+Images recorded in a card can be copied to the other card
+
+File Numbering 
+The following three types of file numbers can be set:
+
+(1) Continuous numbering
+
+* The continuous numbering of captured images will continue even after you replace the camera's card. (The numbering continues even when the folder changes.)
+
+(2) Auto reset
+
+* When you replace the camera's card, the numbering will be reset to start from 0001. If the new card already contains images, the numbering will continue from the last recorded image in the card.
+
+(3) Manual reset
+
+* Resets the file number to 0001, and creates a new folder automatically.
+
+RAW + JPEG Simultaneous Recording 
+The image-recording quality can be selected in any combination of the three RAW and eight JPEG recording quality settings.
+
+Color Space 
+Selectable between sRGB and Adobe RGB
+
+Picture Style 
+Auto, Standard, Portrait, Landscape, Fine Detail, Neutral, Faithful, Monochrome, User Defined 1-3
+
+* Scene Intelligent Auto will set [Auto] automatically.
+
+* [Standard] is the default setting for [User Def. 1-3]
+
+Back to TopWhite Balance
+
+Settings 
+
+Auto (AWB)
+Daylight
+Shade
+Cloudy, Twilight, Sunset
+Tungsten light
+White fluorescent light
+Flash
+Custom (Custom WB)
+Color temperature
+
+* With an EX-series Speedlite having the color temperature information transmission feature, the color temperature setting changes to match the color temperature when the flash is fired. Set to approx. 6000K if the flash unit does not have the color temperature communication feature.
+Auto White Balance 
+Auto white balance with the image sensor
+
+Color Temperature Compensation 
+
+Blue/amber bias: ±9 levels
+Magenta/green bias: ±9 levels
+
+*Corrected in reference to the current WB mode's color temperature.
+Color Temperature Information Transmission 
+Provided
+
+Back to TopViewfinder
+
+Type 
+Eye-level pentaprism
+
+Coverage 
+Approx. 100% vertically and horizontally (At approx. 21mm eyepoint)
+
+Magnification 
+Approx. 0.71x / Angle of view 34.1° (with 50mm lens at infinity, -1 m-1 (dpt))
+
+Eye Point 
+Approx. 21mm (At -1m-1 from the eyepiece lens center)
+
+Dioptric Adjustment Correction 
+-3.0 to +1.0m-1 (diopter)
+
+Focusing Screen 
+Fixed
+
+Mirror 
+Quick-return half mirror (transmission: reflectance ratio of 40:60)
+
+Viewfinder Information 
+
+AF information
+AF point, focus confirmation, AF status indicator
+Exposure information
+Shutter speed, aperture, ISO speed (always displayed), AE lock, exposure level, exposure warning
+Flash information
+Flash ready, flash exposure compensation, high-speed sync, FE lock, red-eye reduction light
+Image information
+Highlight tone priority (D+), maximum burst (2-digit display), card information
+Battery check
+Composition information
+Grid, electronic level
+Warning symbol
+Displayed if any of the following is set: Monochrome, white balance correction, One-touch recording quality switch, expanded ISO speed, or spot metering.
+Depth Of Field Preview 
+Enabled with Depth-of-field preview button
+
+Back to TopAutofocus
+
+Type 
+TTL Secondary image registration, phase detection with AF-dedicated CMOS sensor
+
+AF Points 
+61-point High-Density Reticle AF
+
+Cross-type AF Points	AF Points
+Dual cross-type AF points at f/2.8 and f/5.6	5
+Cross-type AF points at f/4.0 + f/5.6	20
+Cross-type AF points at f/5.6	21
+Horizontal-line focusing AF points at f/5.6	20
+Cross-type AF points at f/8	1
+
+AF Working Range 
+EV -2 - 18 (at 73°F/23°C and ISO 100)
+
+Focusing Modes 
+
+(1) Autofocus
+
+One-Shot AF
+Predictive AI Servo AF
+For automatic AF point selection, the AF point to start the AI Servo AF operation can be selected.
+For automatic AF point selection, the active AF point can be displayed.
+AI Focus AF
+(Switches between One-Shot AF and AI SERVO AF automatically)
+Automatically set in A+ (Auto) Mode
+(2) Manual focus (MF)
+
+AF Point Selection 
+
+Single-point Spot AF (Manual selection)
+Single-point AF (Manual selection) 
+*The checkmark cannot be removed from this option.
+AF point expansion (Manual selection, 4 points: Up, down, left, and right)
+AF point expansion (Manual selection, surrounding 8 points)
+Zone AF (Manual zone selection
+Auto selection 61-Point AF)
+Selected AF Point Display 
+Displayed in viewfinder with transparent LCD and on LCD panel
+
+Active AF Point Indicator 
+AF area used in horizontal/vertical (grip up or down) shooting and the manually-selected AF point position can be set separately
+
+AF Assist Beam 
+
+Enable
+With an EOS-dedicated Speedlite, AF-assist beam is emitted automatically when necessary.
+Disable
+IR AF assist beam only
+* No AF-assist beam with flash bursts.
+Back to TopExposure Control
+
+Metering Modes 
+Approx. 150,000-pixel RGB+IR metering sensor
+
+EOS iSA System with 252-zone (18 x 14) metering
+Evaluative metering (linked to all AF points)
+Partial metering (center, approx. 6.1% of viewfinder)
+Spot metering (center, approx. 1.3% of viewfinder)
+•AF point-linked spot metering not provided.
+Center-weighted average metering
+a.	The selectable metering modes can be restricted with a Custom Function.
+Metering Range 
+EV 0-20 (at 73°F / 23°C at ISO 100)
+
+Exposure Control Systems 
+(1) Scene Intelligent Auto
+
+(2) Program AE (shiftable)
+
+(3) Shutter-priority AE (Safety shift possible)
+
+(4) Aperture-priority AE (Safety shift possible)
+
+(5) Manual exposure
+
+* The metering mode can be specified with a Custom Function.
+
+(6) Bulb
+
+(7) Custom shooting mode, C1, C2, C3
+
+* Evaluative metering, Averaged metering
+
+ISO Speed Range 
+
+Manual Settings:
+Normal ISO Speeds	ISO 100–6400 (in 1/3-stop or whole-stop increments)
+Expanded ISO Speeds	L: equivalent to ISO 50, H: equivalent to ISO 12800
+* For (Highlight tone priority), the settable ISO speed range will be ISO 200–6400.
+* ISO speed safety shift possible with Custom Function.
+* For movie shooting, the maximum expanded ISO speed is also ISO 12800.
+
+ISO 100-6400 (in 1/3-stop or whole-stop increments)
+ISO speed expansion possible to ISO 50 and 12,800
+ISO speed safety shift possible with Custom Function.
+
+Auto Settings:
+Shooting Mode	ISO Settings
+Without Flash	With Flash
+A+	100–3200	ISO 100–1600
+P/Tv/Av/M	100–6400*1	ISO 400 fixed*1,*2,*3
+B	ISO 400 fixed*1
+*1: It depends on (Minimum) and (Maximum) of (Auto ISO range).
+*2: If overexposure would occur with fill flash, the minimum ISO speed is set to ISO 100 (except for M and B).
+*3: Auto set for ISO 400–1600 in the P mode with external Speedlite set for bounce flash. 
+
+ISO Speed upper and lower limits:
+(1) Manual setting range
+* ISO speed expansion is set with this option.
+
+(2) Auto ISO ranger
+* ISO speed expansion not settable.
+Exposure Compensation 
+Manual: ±5 stops in 1/3 or 1/2-stop increments
+
+AEB: ±3 stops in 1/3 or 1/2-stop increments
+
+* Indicated up to Â±3 stops on the LCD panel and in the viewfinder.
+
+AE Lock 
+(1) Auto AE lock
+
+·In the One-Shot AF mode with evaluative metering, AE lock takes effect when focus is achieved.
+
+(2) Manual AE lock
+
+·With AE lock button. (AE lock is updated each time you press the button.) Enabled in all metering modes.
+
+Back to TopShutter
+
+Type 
+Vertical-travel, mechanical, focal-plane shutter with all speeds electronically-controlled
+
+Shutter Speeds 
+X-sync at 1/200 sec.
+1/8000 to 30 sec., bulb (Total shutter speed range. Available range varies by shooting mode.)
+* Shutter speed's control range can be set with a Custom Function.
+
+Shutter Release 
+Soft-touch electromagnetic release
+
+Self Timer 
+10-sec. or 2-sec. delay
+
+Shutter Lag Time 
+
+During SW-1 ON, time lag between SW-2 ON and start of exposure:
+Approx. 0.059 sec.
+* During silent shooting, approx. 0.108 sec.
+* With flash, approx. 0.086 sec.
+* During silent shooting with flash, approx. 0.108 sec.
+Time lag between simultaneous SW-1/SW-2 ON and start of exposure: Approx. 0.186 sec.
+* During silent shooting, approx. 0.230 sec.
+* With flash, approx. 0.236 sec.
+* During silent shooting with flash, approx. 0.255 sec.
+Back to TopExternal Speedlite
+
+EOS Dedicated Speedlite 
+E-TTL II autoflash with all EX Series Speedlites
+
+Zooming to Match Focal Length 
+Provided
+
+Flash Exposure Compensation 
+±3 stops in 1/3- or 1/2-stop increments
+
+FE Lock 
+Provided
+
+External Flash Settings 
+The camera can set the following with Speedlite 600EX-RT, 580EX II, 430EX II, 320EX, 270EX II, or 270EX:
+
+(1) External flash control
+* Flash mode, sync setting, FEB (not possible with 270EX II/270EX), flash exposure compensation, E-TTL II, zoom, wireless master flash (not possible with 430EX II/ 270EX), and clear settings.
+* With the Speedlite 600EX-RT, radio wireless control is possible.
+
+(2) Flash Custom Function setting
+
+PC Terminal 
+Provided (no polarity)
+
+Back to TopDrive System
+
+Drive Modes 
+Single, High-speed continuous, Low-speed continuous, Silent Single Shooting, Silent continuous shooting, and Self-timer (10 sec. self-timer/remote control, or 2-sec. self-timer/remote control)
+
+Continuous Shooting Speed 
+High-speed: Maximum approx. 5.0 shots/sec.
+
+Low-speed: Maximum approx. 3.0shots/sec.
+
+Silent continuous shooting: Maximum approx. 3.0 shots/sec.

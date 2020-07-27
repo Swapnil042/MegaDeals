@@ -1,0 +1,153 @@
+Operating System
+OS
+Windows 10 Home
+Processor
+CPU
+8th Gen Intel® Core™ i7 Mobile Processor
+Speed (GHz)
+1.8GHz
+Turbo Boost (GHz)
+4.0GHz
+Chipset
+Intel
+CPU Cache
+8MB L3
+Design
+Color
+Light Titan
+Display
+LCD Size
+13.3"
+Type
+FHD LED
+Resolution
+1920 x 1080
+Touchscreen
+Yes
+Aspect Ratio
+16:9
+Brightness
+350nit (Outdoor mode : 500nit)
+System Memory
+System Memory
+8GB
+Memory Configuration
+8GB (OnBoard)
+Memory Type
+DDR4
+Storage
+Storage Capacity
+256GB
+Storage Technology
+SSD
+Storage Interface
+PCle
+Graphics
+Chipset
+Intel® UHD Graphics 620
+External or Integrated
+Integrated
+Maximum Graphics Memory
+Shared
+Sound & Camera
+Speaker
+Stereo Speakers ( 1.5 W x 2 )
+Audio Type
+Realtek HD Audio
+Sound Effect
+SoundAlive™
+Web Cam
+720p
+Internal Mic
+Yes
+Wireless
+Wireless LAN
+802.11 ac
+Name of Wireless LAN Card
+Intel® Dual-Band Wireless-AC 8265
+Wireless LAN Antenna
+2x2
+Bluetooth®
+Bluetooth v4.1
+I/O Ports
+HDMI
+HDMI (out)
+Headphone Out
+1 Headphone out/Mic-in Combo
+Microphone In
+1 Headphone out/Mic-in Combo
+USB Ports (Total)
+1 x USB-C™ [up to 5Gbps*, 4K display out with optional adapter, Charging] 1 x USB3.0
+Sleep-and-Charge USB
+Yes (Type-C)
+Multi Card Slot
+3-in-1 card slot (micro SD, micro SDHC, micor SDXC)
+Input Devices
+Touch Pad / Track Point
+Clickpad
+Backlit Keyboard
+Yes
+Spill Resistant
+50cc
+Number of Keys
+80
+Power
+AC Adapter
+45W
+Number of Cells / Cell Type
+4Cell/Li-ion
+mAh
+5120mAh
+Watt Hours
+39Wh
+Battery Life
+9hrs
+Test Used
+MobileMark 14
+Security & Safety
+Fingerprint Reader
+Yes
+TPM
+Yes
+BIOS / HDD Password
+Yes
+Certification
+EPEAT Rating
+Silver
+ENERGY STAR® Certified
+Yes
+Included in Box
+Accessories
+Adapter, Quick Start Guide(paper),APP Guide(paper) , WARRANTY card, Type-C to B USB Connector
+Software
+Link Sharing
+McAfee Live Safe (60 days trial)
+Samsung Gallery
+Samsung Message
+Samsung Recovery
+Samsung Settings
+Studio Plus
+Samsung Update
+teamPL
+Wi-Fi Camera
+Wi-Fi Transfer
+Dimensions
+System Dimensions (L x W x H, Inch)
+12.22" x 8.13" x 0.57" ~ 0.65"
+Weight
+System Weight (w/Std. Battery, lb.)
+2.2 lbs.
+Warranty
+Warranty
+1 Year
+Key Features
+Premium Notebook
+Yes
+Full HD Display
+Yes
+360 degree rotating display
+Yes
+Expandable Memory
+Yes
+Built-in Pen
+S Pen

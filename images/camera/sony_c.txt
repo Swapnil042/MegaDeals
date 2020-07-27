@@ -1,0 +1,626 @@
+Lens
+
+
+Image Sensor
+
+
+
+
+
+Recording (still images)
+
+
+
+
+
+
+
+
+
+
+
+
+Recording (movie)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recording System
+
+
+
+
+Noise Reduction
+
+
+White balance
+
+
+
+
+Focus
+
+
+
+
+
+
+
+
+
+
+Exposure
+
+
+
+
+
+
+
+
+
+
+
+Viewfinder
+
+
+
+
+
+
+
+
+
+
+LCD Screen
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other Features
+
+
+
+
+
+
+
+Shutter
+
+
+
+
+
+
+Image Stabilization
+
+
+Flash Control
+
+
+
+
+
+
+
+Drive
+
+
+
+
+Playback
+
+
+Interface
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audio
+
+
+Print
+
+Custom function
+
+Lens Compensation
+
+Power
+
+
+
+
+
+
+
+
+Others
+
+Size & Weight
+
+
+WHAT'S IN THE BOX
+
+LENS COMPATIBILITY
+
+LENS MOUNT
+
+ASPECT RATIO
+
+NUMBER OF PIXELS (EFFECTIVE)
+
+NUMBER OF PIXELS (TOTAL)
+
+SENSOR TYPE
+
+ANTI-DUST SYSTEM
+
+RECORDING FORMAT
+
+IMAGE SIZE (PIXELS) [3:2]
+
+IMAGE SIZE (PIXELS) [16:9]
+
+IMAGE SIZE (PIXELS) [SWEEP PANORAMA]
+
+IMAGE QUALITY MODES
+
+PICTURE EFFECT
+
+CREATIVE STYLE
+
+PICTURE PROFILE
+
+DYNAMIC RANGE FUNCTIONS
+
+COLOUR SPACE
+
+14BIT RAW
+
+UNCOMPRESSED RAW
+
+RECORDING FORMAT
+
+VIDEO COMPRESSION
+
+AUDIO RECORDING FORMAT
+
+COLOUR SPACE
+
+PICTURE EFFECT
+
+CREATIVE STYLE
+
+PICTURE PROFILE
+
+IMAGE SIZE (PIXELS), NTSC
+
+IMAGE SIZE (PIXELS), PAL
+
+IMAGE FRAME RATE
+
+IMAGE SIZE (FRAME RATE)
+
+MOVIE FUNCTIONS
+
+CLEAN HDMI OUTPUT
+
+LOCATION INFORMATION LINK FROM SMARTPHONE
+
+MEDIA
+
+MEMORY CARD SLOT
+
+RECORDING MODE ON 2 MEMORY CARDS
+
+NOISE REDUCTION
+
+MULTI FRAME NR
+
+WHITE BALANCE MODES
+
+AWB MICRO ADJUSTMENT
+
+PRIORITY SET IN AWB
+
+BRACKETING
+
+FOCUS TYPE
+
+FOCUS SENSOR
+
+FOCUS POINT
+
+FOCUS SENSITIVITY RANGE
+
+FOCUS MODE
+
+FOCUS AREA
+
+OTHER FEATURES
+
+AF ILLUMINATOR
+
+AF ILLUMINATOR RANGE
+
+FOCUS TYPE WITH LA-EA3 (SOLD SEPARATELY)
+
+METERING TYPE
+
+METERING SENSOR
+
+METERING SENSITIVITY
+
+METERING MODE
+
+EXPOSURE COMPENSATION
+
+EXPOSURE BRACKETING
+
+AE LOCK
+
+EXPOSURE MODES
+
+ISO SENSITIVITY (RECOMMENDED EXPOSURE INDEX)
+
+ANTI-FLICKER SHOOT.
+
+SCENE SELECTION
+
+VIEWFINDER TYPE
+
+NUMBER OF DOTS
+
+BRIGHTNESS CONTROL (VIEWFINDER)
+
+COLOR TEMPERATURE CONTROL
+
+FIELD COVERAGE
+
+MAGNIFICATION
+
+DIOPTRE ADJUSTMENT
+
+EYE POINT
+
+FINDER FRAME RATE SELECTION
+
+DISPLAY CONTENTS
+
+MONITOR TYPE
+
+NUMBER OF DOTS
+
+TOUCH PANEL
+
+BRIGHTNESS CONTROL
+
+ADJUSTABLE ANGLE
+
+DISPLAY SELECTER (FINDER/LCD)
+
+REAL-TIME IMAGE ADJUSTMENT DISPLAY (LCD)
+
+QUICK NAVI
+
+FOCUS MAGNIFIER
+
+ZEBRA
+
+PEAKING MF
+
+OTHERS
+
+DISPLAY CONTENT
+
+PLAYMEMORIES CAMERA APPS™
+
+CLEAR IMAGE ZOOM
+
+DIGITAL ZOOM
+
+FACE DETECTION
+
+SELF-PORTRAIT SELF-TIMER
+
+OTHERS
+
+EYE-FI READY
+
+TYPE
+
+SHUTTER TYPE
+
+SHUTTER SPEED
+
+FLASH SYNC. SPEED
+
+ELECTRONIC FRONT CURTAIN SHUTTER
+
+SILENT SHOOTING
+
+TYPE
+
+COMPENSATION EFFECT
+
+CONTROL
+
+FLASH COMPENSATION
+
+FLASH BRACKETING
+
+FLASH MODES
+
+EXTERNAL FLASH COMPATIBILITY
+
+FE LEVEL LOCK
+
+WIRELESS CONTROL
+
+DRIVE MODES
+
+CONTINUOUS DRIVE SPEED (APPROX. MAX.)
+
+NO. OF RECORDABLE FRAMES (APPROX.)
+
+SELF-TIMER
+
+PHOTO CAPTURE
+
+MODES
+
+PC INTERFACE
+
+MULTI / MICRO USB TERMINAL
+
+USB TYPE-C™ TERMINAL
+
+NFC™
+
+WIRELESS LAN (BUILT-IN)
+
+BLUETOOTH
+
+HD OUTPUT
+
+MULTI INTERFACE SHOE
+
+AUTO-LOCK ACCESSORY SHOE
+
+SMART ACCESSORY TERMINAL 2
+
+MIC TERMINAL
+
+DC IN TERMINAL
+
+SYNC TERMINAL
+
+HEADPHONE TERMINAL
+
+VERTICAL GRIP CONNECTOR
+
+PC REMOTE
+
+LAN TERMINAL
+
+MICROPHONE
+
+SPEAKER
+
+COMPATIBLE STANDARDS
+
+TYPE
+
+SETTING
+
+SUPPLIED BATTERY
+
+BATTERY LIFE (STILL IMAGES)
+
+BATTERY LIFE (MOVIE, ACTUAL RECORDING)
+
+BATTERY LIFE (MOVIE, CONTINUOUS RECORDING)
+
+INTERNAL BATTERY CHARGE
+
+POWER CONSUMPTION WITH VIEWFINDER
+
+POWER CONSUMPTION WITH LCD SCREEN
+
+USB POWER SUPPLY
+
+OPERATING TEMPERATURE
+
+WEIGHT (WITH BATTERY AND MEMORY CARD INCLUDED)
+
+DIMENSIONS (W X H X D)
+
+Body Only
+ILCE-7M3
+Body Only 
+ILCE-7M3
+AC Adaptor AC-UUE12
+Accessory shoe cap
+Body cap
+Eyepiece cup
+Micro USB cable
+Rechargeable Battery NP-FZ100
+Shoulder strap
+Sony E-mount lenses
+E-mount
+3:2
+Approx. 24.2 megapixels
+Approx. 25.3 megapixels
+35mm full frame (35.6×23.8mm), Exmor R CMOS sensor
+Charge protection coating on optical filter and image sensor shift mechanism
+JPEG (DCF Ver. 2.0, Exif Ver.2.31, MPF Baseline compliant), RAW (Sony ARW 2.3 format)
+35mm full frame L: 6000 x 4000 (24M), M: 3936 x 2624 (10M), S: 3008 x 2000 (6.0M), APS-C L: 3936 x 2624 (10M), M: 3008 x 2000 (6.0M), S: 1968 x 1312 (2.6M)
+35mm full frame L: 6000 x 3376 (20M), M: 3936 x 2216 (8.7M), S: 3008 x 1688 (5.1M), APS-C L: 3936 x 2216 (8.7M), M: 3008 x 1688 (5.1M), S: 1968 x 1112 (2.2M)
+-
+RAW, RAW & JPEG (Extra fine, Fine, Standard), JPEG (Extra fine, Fine, Standard)
+8 types: Posterization (Color), Posterization (B/W), Pop Color, Retro Photo, Partial Color (R/G/B/Y), High Contrast Monochrome, Toy Camera (Normal/Cool/Warm/Green/Magenta), Soft High-key , Rich-tone Monochrome
+Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn leaves, Black & White, Sepia, Style Box (1-6), (Contrast (-3 to +3 steps), Saturation (-3 to +3 steps), Sharpness (-3 to +3 steps))
+Yes (Off / PP1-PP10) Parameters: Black level, Gamma (Movie, Still, Cine1-4, ITU709, ITU709 [800%], S-Log2, S-Log3, HLG, HLG1-3), Black Gamma, Knee, Color Mode, Saturation, Color Phase, Color Depth, Detail, Copy, Reset
+Off, Dynamic Range Optimizer (Auto/Level (1-5)), Auto High Dynamic Range (Auto Exposure Difference, Exposure Difference Level (1-6 EV, 1.0 EV step))
+sRGB standard (with sYCC gamut) and Adobe RGB standard, compatible with TRILUMINOS Color
+Yes
+Yes
+XAVC S, AVCHD format Ver. 2.0 compliant
+XAVC S: MPEG-4 AVC/H.264, AVCHD: MPEG-4 AVC/H.264
+XAVC S: LPCM 2ch, AVCHD: Dolby Digital (AC-3) 2ch, Dolby Digital Stereo Creator
+xvYCC standard (x.v.Color when connected via HDMI cable) compatible with TRILUMINOS Color
+Posterization (Color), Posterization (B/W), Pop Color, Retro Photo, Partial Color (R/G/B/Y), High Contrast Monochrome, Toy Camera (Normal/Cool/Warm/Green/Magenta), Soft High-key
+Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn leaves, Black & White, Sepia, Style Box (1-6), (Contrast (-3 to +3 steps), Saturation (-3 to +3 steps), Sharpness (-3 to +3 steps))
+Yes (Off / PP1-PP10) Parameters: Black level, Gamma (Movie, Still, Cine1-4, ITU709, ITU709 [800%], S-Log2, S-Log3, HLG, HLG1-3), Black Gamma, Knee, Color Mode, Saturation, Color Phase, Color Depth, Detail, Copy, Reset
+XAVC S 4K: 3840 x 2160 (30p, 100M), 3840 x 2160 (24p, 100M), 3840 x 2160 (30p, 60M), 3840 x 2160 (24p, 60M), XAVC S HD: 1920 x 1080 (120p, 100M), 1920 x 1080 (120p, 60M), 1920 x 1080 (60p, 50M), 1920 x 1080 (30p, 50M), 1920 x 1080 (24p, 50M), 1920 x 1080 (60p, 25M), 1920 x 1080 (30p, 16M), AVCHD: 1920 x 1080 (60i, 24M, FX), 1920 x 1080 (60i, 17M, FH)
+XAVC S 4K: 3840 x 2160 (25p, 100M), 3840 x 2160 (25p, 60M), XAVC S HD:1920 x 1080 (100p, 100M), 1920 x 1080(100p, 60M), 1920 x 1080 (50p, 50M), 1920 x 1080 (25p, 50M), AVCHD:1920 x 1080 (50i, 24M, FX), 1920 x 1080 (50i, 17M, FH)
+NTSC mode: 1fps, 2fps, 4fps, 8fps, 15fps, 30fps, 60fps, 120fps, PAL mode: 1fps, 2fps, 3fps, 6fps, 12fps, 25fps, 50fps, 100fps
+NTSC mode: 1920x1080 (60p, 30p, 24p), PAL mode: 1920x1080 (50p, 25p)
+Audio Level Display, Audio Rec Level, PAL/NTSC Selector, Yes (1280 x 720 (Approx.9Mbps)), TC/UB (TC Preset/UB Preset/TC Format/TC Run/TC Make/UB Time Rec), Auto Slow Shutter, REC Control, Clean HDMI Info. (ON/OFF selectable), Gamma Disp. Assist
+3840 x 2160 (25p), 1920 x 1080 (50p), 1920 x 1080 (50i), 1920 x 1080 (24p), 1920 x 1080 (60p), 1920 x 1080 (60i), 3840 x 2160 (30p), 3840 x 2160 (24p), YCbCr 4:2:2 8bit / RGB 8bit
+Yes
+Memory Stick PRO Duo, Memory Stick PRO-HG Duo, Memory Stick Micro (M2), SD memory card, SDHC memory card (UHS-I/II compliant), SDXC memory card (UHS-I/II compliant), microSD memory card, microSDHC memory card, microSDXC memory card
+SLOT1: Slot for SD (UHS-I/II compliant) memory card, SLOT2: Multi slot for Memory Stick Duo/SD (UHS-I compliant) memory card
+Simult. Rec (Still), Simult. Rec (Movie), Simult. Rec (Still/,Movie), Sort (JPEG/RAW), Sort (Still/Movie), Auto Switch Media (On/Off), Copy
+Long exposure NR: On/Off, available at shutter speeds longer than 1 sec., High ISO NR: Normal/Low/Off
+-
+Auto / Daylight / Shade / Cloudy / Incandescent / Fluorescent / Warm White / Cool White / Day White / Daylight / Flash / Underwater / Color Temperature 2500 to 9900K & color filter G7 to M7 (57-step), A7 to B7 (29-step) / Custom
+Yes G7 to M7, 57-step A7 to B7, 29-step
+Yes
+3 frames, H/L selectable
+Fast Hybrid AF (phase-detection AF/contrast-detection AF)1
+Exmor R CMOS sensor
+35mm full frame: 693 points (phase-detection AF), APS-C mode with full frame lens: 299 points (phase-detection AF), with APS-C lens: 221 points (phase-detection AF) / 425 points (contrast-detection AF)
+EV-3 to EV20 (ISO100 equivalent with F2.0 lens attached)
+AF-A (Automatic AF), AF-S (Single-shot AF), AF-C (Continuous AF), DMF (Direct Manual Focus), Manual Focus
+Wide (693 points (phase-detection AF), 425 points (contrast-detection AF)) / Zone / Center / Flexible Spot (S/M/L) /Expanded Flexible Spot/ Lock-on AF ( Wide / Zone / Center / Flexible Spot (S/M/L)/Expanded Flexible Spot)
+Eye-start AF (only with LA-EA2 or LA-EA4 attached (sold separately)), Lock-on AF, Eye AF, AF micro adjustment with LA-EA2 or LA-EA4 (sold separately), Predictive control, Focus lock, AF Track Sens, Swt.V/H AF Area, AF Area Regist.
+Yes (with Built-in LED type)
+Approx. 0.3m - approx. 3.0m (with FE 28-70mm F3.5-5.6 OSS attached)
+selectable (phase-detection, contrast-detection)
+1200-zone evaluative metering
+Exmor R CMOS sensor
+EV-3 to EV20 (at ISO100 equivalent with F2.0 lens attached)
+Multi-segment, Center-weighted, Spot, Spot Standard/Large, Entire Screen Avg., Highlight
++/- 5.0EV (1/3 EV, 1/2 EV steps selectable) (with exposure compensation dial: +/- 3EV (1/3 EV steps))
+Bracket: Cont., Bracket: Single, 3/5/9 frames selectable. With 3 or 5 frames, in 1/3, 1/2, 2/3, 1.0, 2.0, or 3.0 EV increments, with 9 frames, in 1/3, 1/2, 2/3, or 1.0 EV increments
+Locked when shutter button is pressed halfway. Available with AE lock button (On/Off/Auto)
+AUTO (iAuto), Programmed AE (P), Aperture priority (A), Shutter-speed priority (S), Manual (M), Movie (Programmed AE (P) / Aperture priority (A) / Shutter-speed priority (S) / Manual (M) ), Slow & Quick Motion (Programmed AE (P) / Aperture priority (A) / Shutter-speed priority (S) / Manual (M) ), Scene Selection
+Still images: ISO 100-51200 (ISO numbers up from ISO 50 to ISO 204800 can be set as expanded ISO range.), AUTO (ISO 100-12800, selectable lower limit and upper limit), Movies: ISO 100-51200 equivalent(ISO numbers up ISO 102400 can be set as expanded ISO range.), AUTO (ISO 100-12800, selectable lower limit and upper limit)
+Yes
+Portrait, Sports Action, Macro, Landscape, Sunset, Night Scene, Night Portrait
+1.3 cm (0.5 type) electronic viewfinder (color), XGA OLED
+2 359 296 dots
+Auto/Manual (5 steps between -2 and +2)
+Manual (5 steps)
+100%
+approx. 0.78 x (with 50mm lens at infinity, -1m-1)
+-4.0 to +3.0m-1
+Approx. 23mm from the eyepiece lens, 18.5mm from the eyepiece frame at -1m-1(CIPA standard)
+-
+Graphic Display, Display All Info., No Disp. Info., Digital Level Gauge, Histogram
+7.5cm (3.0-type) type TFT
+921,600 dots
+Yes
+Manual (5 steps between -2 and +2), Sunny Weather mode
+Up by approx. 107 degrees, Down by approx. 41 degrees
+Yes (Auto/Manual)
+On/Off
+Yes
+Yes (35mm full frame: 5.9x, 11.7x, APS-C: 3.8x, 7.7x)
+Yes (selectable level + range or lower limit as custom setting)
+Yes (Level setting: High/Mid/Low/Off, colour: White/Red/Yellow)
+Grid Line (Rule of 3rds Grid/Square Grid/Diag. + Square Grid/Off), Movie Marker (Center/Aspect/Safety Zone/Guideframe)
+Graphic Display, Display All Info, No Disp. Info, Digital Level Gauge, Histogram,For viewfinder, Monitor Off
+-
+Still images: Approx. 2x, Movies:Approx. 1.5x (4K), Approx. 2x (HD)
+Smart zoom (Still images): 35mm full frame: M: approx 1.5x, S: approx 2x, APS-C: M: approx 1.3x, S: approx 2x, Digital zoom (Still images): 35mm full frame: L: approx 4x, M: approx 6.1x, S: approx 8x, APS-C: L: approx 4x, M: approx 5.2x, S: approx 8x,Digital zoom (Movie): 35mm full frame: approx 4x, APS-C: approx 4x
+Modes: Face Priority in AF (On/Off), Face Priority in Multi Metering (On/Off), Regist. Faces Priority (On/Off), Face registration, Max. number of detectable: 8
+-
+Touch Focus: Yes (Available with LCD monitor or Viewfinder operation), ISO AUTO Min. SS, Bright Monitoring, Set File Name, FTP Transfer Func., Help guide, Area Setting, Shop Front Mode, Video Light Mode, Zoom Ring Rotate
+-
+Electronically-controlled, vertical-traverse, focal-plane type
+-
+Still images: 1/8000 to 30 sec, Bulb, Movies: 1/8000 to 1/4 (1/3 steps), up to 1/60 in AUTO mode (up to 1/30 in Auto slow shutter mode),
+1/250 sec.2
+Yes (ON/OFF)
+Yes (ON/OFF)
+Image Sensor-Shift mechanism with 5-axis compensation (Compensation depends on lens specifications)
+5.0 stops (based on CIPA standard. Pitch/yaw shake only. With Planar T* FE 50mm F1.4 ZA lens mounted. Long exposure NR off.)
+Pre-flash TTL
++/- 3.0 EV (switchable between 1/3 and 1/2 EV steps)
+3/5/9 frames selectable. With 3 or 5 frames, in 1/3, 1/2, 2/3, 1.0, 2.0, 3.0 EV increments, with 9 frames, in 1/3, 1/2, 2/3, 1.0 EV increments.
+Flash off, Autoflash, Fill-flash, Slow Sync., Rear Sync., Red-eye reduction (on/off selectable), Wireless3, Hi-speed sync.3
+Sony a System Flash compatible with Multi Interface Shoe, attach the shoe adaptor for flash compatible with Auto-lock accessory shoe
+Yes
+Yes (Light signal: Available with Fill-flash, Slow Sync., Hi-speed sync. /Radio signal: Available with Fill-flash, Rear Sync., Slow Sync., Hi-speed sync.)
+Single Shooting, Continuous shooting (Hi+/Hi/Mid/Lo selectable), Self-timer, Self-timer (Cont.), Bracket: Single, Bracket: Cont., White Balance bracket, DRO bracket
+Continuous shooting: Hi+: max. 10 fps, Hi: max. 8 fps, Mid: max. 6fps, Lo: max. 3 fps 4
+JPEG Extra fine L: 163 frames, JPEG Fine L: 172 frames, JPEG Standard L: approx. 177 frames, RAW: 89 frames, RAW & JPG: 79 frames, RAW (Uncompressed): 40 frames, RAW (Uncompressed) & JPG: 36 frames 4
+10 sec. delay/5 sec. delay/2 sec. delay/Continuous self-timer (3 frames after 10 sec. delay/5 frames after 10 sec. delay/3 frames after 5 sec. delay/5 frames after 5 sec. delay/3 frames after 2 sec. delay/5 frames after 2 sec. delay)/Bracketing self-timer
+Yes
+Single (with or without shooting information Y RGB histogram & highlight/shadow warning), 9/25-frame index view, Enlarged display mode (L: 18.8x, M: 12.3x, S: 9.4x), Auto Review (10/5/2 sec, Off), Image orientation (Auto/Manual/Off selectable), Slideshow, Folder selection (Date/ Still/ AVCHD/XAVC S HD/XAVC S 4K), Forward/Rewind (movie), Delete,Protect, Rating, Disp Cont Shoot Grp
+Mass-storage, MTP, PC remote
+Yes5
+Yes (SuperSpeed USB (USB 3.1 Gen 1) compatible)
+Yes (NFC forum Type 3 Tag compatible), One-touch remote, One-touch sharing
+Wi-Fi Compatible, IEEE 802.11b/g/n (2.4GHz band), View on Smartphone, Remote control via Smartphone, Send to Computer, View on TV
+Yes (Bluetooth Standard Ver. 4.1 (2.4GHz band))
+HDMI micro connector (Type-D),BRAVIA Sync (Control for HDMI), PhotoTV HD, 4K movie output/4K still image PB
+Yes6
+-
+-
+Yes (3.5 mm Stereo minijack)
+-
+-
+Yes (3.5 mm Stereo minijack)
+Yes
+Yes
+-
+Built-in stereo microphone or XLR-K2M/XLR-K1M/ECM-XYST1M (sold separately)
+Built-in,monaural
+Exif Print, Print Image Matching III, DPOF setting
+Custom key settings,Programmable Setting (Body 2 sets /memory card 4 sets), My Menu, Reg Cust Shoot Set
+Peripheral Shading, Chromatic Aberration, Distortion
+One rechargeable battery pack NP-FZ100
+Approx. 610 shots (Viewfinder) / approx. 710 shots (LCD monitor) (CIPA standard)7
+Approx. 115 min (Viewfinder) / Approx. 125 min (LCD monitor) (CIPA standard)89
+Approx. 200 min (Viewfinder) / Approx. 210 min (LCD monitor) (CIPA standard)810
+Yes (Available with Multi/Micro USB Terminal or USB Type-C Terminal)
+Still images: approx. 3.2W (with FE 28-70mm F3.5-5.6 OSS lens attached), Movies: approx. 4.9W (with FE 28-70mm F3.5-5.6 OSS lens attached)
+Still images: approx. 2.8W (with FE 28-70mm F3.5-5.6 OSS lens attached), Movies: approx. 4.7W (with FE 28-70mm F3.5-5.6 OSS lens attached)
+Yes (Available with Multi/Micro USB Terminal or USB Type-C Terminal)
+32 - 104 degrees F / 0 - 40 degrees C
+Approx. 650 g / 1lb 7.0 oz
+Approx. 126.9mm x 95.6mm x 73.7mm, Approx. 126.9mm x 95.6mm x 62.7mm (from grip to monitor)/Approx. 5 x 3 7/8 x 3 

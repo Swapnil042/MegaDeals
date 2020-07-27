@@ -1,0 +1,55 @@
+HP EliteBook x360 1020 G2 with HP Sure View
+Suddenly, everywhere becomes your office with our thinnest and lightest business convertible. From the office to abroad, go wherever work takes you with high-performance specs, industry-leading security, and immersive collaboration.
+OPERATING SYSTEM	Windows 10 Pro 64
+PROCESSOR FAMILY	7th Generation Intel® Core™ i5 processor
+PROCESSOR	Intel® Core™ i5-7200U with Intel® HD Graphics 620 (2.5 GHz base frequency, up to 3.1 GHz with Intel® Turbo Boost Technology, 3 MB cache, 2 cores)
+CHIPSET	Chipset is integrated with processor
+MEMORY	8 GB LPDDR3-1866 SDRAM
+INTERNAL DRIVE	256 GB PCIe® NVMe™ SSD
+DISPLAY	HP Sure View Integrated Privacy Screen 12.5" diagonal FHD IPS eDP LED-backlit touch screen with Corning® Gorilla® Glass 4, 700 cd/m2, 72% sRGB (1920 x 1080) [11,13,30]
+GRAPHICS	Intel® HD Graphics 620
+EXTERNAL I/O PORTS	2 USB 3.1 Type-C™ with Thunderbolt™ support; 1 HDMI 1.4a; 1 headphone/microphone combo [10]
+AUDIO	Audio by Bang & Olufsen; Digital dual-array microphone; Premium stereo speakers
+WEBCAM	720p HD webcam, IR camera for face authentication with Windows Hello
+KEYBOARD	Full size, backlit, HP Premium Collaboration Keyboard
+POINTING DEVICE	Clickpad with multi-touch gestures enabled, taps enabled as default
+WIRELESS TECHNOLOGY	Intel® Dual Band Wireless-AC 8265 802.11a/b/g/n/ac (2x2) WiFi and Bluetooth® 4.2 Combo (non-vPro™)
+POWER SUPPLY	65 W USB Type-C™ AC adapter [26]
+BATTERY	4-cell, long life 49.28 Wh Li-ion
+BATTERY LIFE	Up to 15 hours and 30 minutes
+ENERGY EFFICIENCY	ENERGY STAR® certified
+DIMENSIONS (W X D X H)	11.41 x 8.02 x 0.53 in
+WEIGHT	Starting at 2.5 lb
+WARRANTY	3-year limited parts, labor (3/3/0) warranty. Certain restrictions and exclusions apply.
+SOFTWARE INCLUDED	HP Hotkey Support; HP Recovery Manager; HP Support Assistant; HP Velocity; Buy Office; HP JumpStart; Native Miracast Support; HP Noise Cancellation Software; Bing search for IE11; HP ePrint Driver + JetAdvantage; HP Connection Optimizer [14,15,16,26]
+MANAGEABILITY FEATURES	HP Driver Packs; HP System Software Manager (SSM); HP BIOS Config Utility (BCU); HP Client Catalog; HP Management Integration Kit for Microsoft System Center Configuration Manager; LANDESK Management
+SECURITY MANAGEMENT	HP BIOSphere Gen3; HP DriveLock and Automatic DriveLock; HP Sure Start Gen3; TPM 2.0 Embedded Security Chip shipped with Windows 10 (Common Criteria EAL4+ Certified); Power-on Authentication (password); Absolute Persistence Module; HP Client Security Gen3; Microsoft Defender; Finger Print Reader [20,21,22,23,24]
+[1] Not all features are available in all editions or versions of Windows. Systems may require upgraded and/or separately purchased hardware, drivers, software or BIOS update to take full advantage of Windows functionality. Windows 10 is automatically updated, which is always enabled. ISP fees may apply and additional requirements may apply over time for updates. See http://www.windows.com/.
+[2] Note: Some devices for academic use will automatically be updated to Windows 10 Pro Education with the Windows 10 Anniversary Update. Features vary; see https://aka.ms/ProEducation for Windows 10 Pro Education feature information.
+[3] Multicore is designed to improve performance of certain software products. Not all customers or software applications will necessarily benefit from use of this technology. Performance and clock frequency will vary depending on application workload and your hardware and software configurations. Intel’s numbering is not a measurement of higher performance.
+[4] Processor speed denotes maximum performance mode; processors will run at lower speeds in battery optimization mode.
+[5] NOTE: In accordance with Microsoft’s support policy, HP does not support the Windows 8 or Windows 7 operating system on products configured with Intel and AMD 7th generation and forward processors or provide any Windows 8 or Windows 7 drivers on http://www.support.hp.com.
+[6] Due to the non-industry standard nature of some third-party memory modules, we recommend HP branded memory to ensure compatibility. If you mix memory speeds, the system will perform at the lower memory speed.
+[7] For storage drives, GB = 1 billion bytes. TB = 1 trillion bytes. Actual formatted capacity is less. Up to 30 GB (for Windows 10) is reserved for system recovery software.
+[8] Wireless access point and Internet service required and sold separately. Availability of public wireless access points limited. The specifications for the 802.11ac WLAN are draft specifications and are not final. If the final specifications differ from the draft specifications, it may affect the ability of the notebook to communicate with other 802.11ac WLAN devices.
+[9] WWAN module requires separately purchased service contract. Check with service provider for coverage and availability in your area. Connection speeds will vary due to location, environment, network conditions, and other factors. 4G LTE not available on all products, in all regions.
+[10] HDMI cable sold separately.
+[11] HD content required to view HD images.
+[12] Internet access required.
+[13] Resolutions are dependent upon monitor capability, and resolution and color depth settings.
+[14] Miracast is a wireless technology your PC can use to project your screen to TVs, projectors, and streaming media players that also support Miracast. You can use Miracast to share what you’re doing on your PC and present a slide show. For more information: http://windows.microsoft.com/en-us/windows-8/project-wireless-screen-miracast.
+[15] HP ePrint Drive requires an Internet connection to HP web-enabled printer and HP ePrint account registration (for a list of eligible printers, supported documents and image types and other HP ePrint details, see www.hp.com/go/eprintcenter). Print times and connection speeds may vary.
+[16] HP Support Assistant requires Windows and Internet Access.
+[17] HP Driver Packs is not preinstalled, however available for download at http://www.hp.com/go/clientmanagement.
+[18] HP Management Integration Kit for Microsoft System Center Configuration Manager and HP Management Integration Kit can be downloaded from http://www8.hp.com/us/en/ads/clientmanagement/overview.html.
+[19] LANDESK Management subscription required.
+[20] HP BIOSphere Gen3 requires Intel® 7th or 8th Generation processors.
+[21] HP Password Manager requires Internet Explorer or Chrome or FireFox.  Some websites and applications may not be supported.  User may need to enable or allow the add-on / extension in the internet browser.
+[22] Absolute agent is shipped turned off, and will be activated when customers activate a purchased subscription. Subscriptions can be purchased for terms ranging multiple years. Service is limited, check with Absolute for availability outside the U.S. The Absolute Recovery Guarantee is a limited warranty. Certain conditions apply. For full details visit: http://www.absolute.com/company/legal/agreements/ computrace-agreement. Data Delete is an optional service provided by Absolute Software. If utilized, the Recovery Guarantee is null and void. In order to use the Data Delete service, customers must first sign a Pre-Authorization Agreement and either obtain a PIN or purchase one or more RSA SecurID tokens from Absolute Software.
+[23] HP Client Security Suite Gen3 requires Windows and Intel® or AMD 7th or 8th Generation processors.
+[24] Microsoft Defender Opt in and internet connection required for updates.
+[26] Supports HP Fast Charging.
+[27] HP Care Packs are sold separately. Service levels and response times for HP Care Packs may vary depending on your geographic location. Service starts on date of hardware purchase. Restrictions and limitations apply. For details, visit www.hp.com/go/cpc. HP services are governed by the applicable HP terms and conditions of service provided or indicated to Customer at the time of purchase. Customer may have additional statutory rights according to applicable local laws, and such rights are not in any way affected by the HP terms and conditions of service or the HP Limited Warranty provided with your HP Product.
+[28] EPEAT® registered where applicable.  EPEAT registration varies by country. See http://www.epeat.net for registration status by country. Search keyword generator on HP’s 3rd party option store for solar generator accessories at www.hp.com/go/options.
+[29] Windows Hello requires Windows 10 Operating System installed.
+[30] HP Sure View is optional and must be configured at purchase.

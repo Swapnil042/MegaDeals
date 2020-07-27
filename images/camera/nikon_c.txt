@@ -1,0 +1,418 @@
+Effective Pixels (Megapixels)
+45.7  million
+ 
+Sensor Size
+35.9  mm  x  23.9  mm
+ 
+Image Sensor Format
+FX
+ 
+Storage Media
+1 XQD card and 1 Secure Digital (SD) card 
+SD 
+SDHC (UHS-II compliant) 
+SDXC (UHS-II compliant) 
+XQD Type Memory
+ 
+Top Continuous Shooting Speed at full resolution
+7  frames per second
+ 
+ISO Sensitivity
+ISO  64  -  25,600 
+Can also be set to approx. 0.3, 0.5, 0.7, or 1 EV (ISO 32 equivalent) below ISO 64 or to approx. 0.3, 0.5, 0.7, 1, or 2 EV (ISO 102,400 equivalent) above ISO 25,600; auto ISO sensitivity control available 
+ 
+Movie
+4K UHD 3,840x2,160 / 30 fps 
+4K UHD 3,840x2,160 / 25 fps 
+4K UHD 3,840x2,160 / 24 fps 
+Full HD 1,920x1,080 / 60 fps  
+Full HD 1,920x1,080 / 50 fps  
+Full HD 1,920x1,080 / 30 fps  
+Full HD 1,920x1,080 / 25 fps  
+Full HD 1,920x1,080 / 24 fps  
+HD 1,280x720 / 60 fps 
+HD 1,280x720 / 50 fps 
+Slow-motion: Full HD 1,920x1,080 30p (x4) 
+Slow-motion: Full HD 1,920x1,080 25p (x4) 
+Slow-motion: Full HD 1,920x1,080 24p (x5) 
+Actual frame rates for 60p, 50p, 30p, 25p, and 24p are 59.94, 50, 29.97, 25, and 23.976 fps respectively 
+Quality selection available at all sizes except 3,840 x 2,160 (when quality is fixed at high) and 1,920 x 1,080 slow-motion (when quality is fixed at normal)
+ 
+Monitor Size
+3.2  in. diagonal
+ 
+Monitor Type
+Tilting TFT touch-sensitive LCD
+ 
+Battery / Batteries
+EN-EL15a Rechargeable Li-ion Battery
+ 
+Approx. Dimensions (Width x Height x Depth)
+5.8  in.  (146  mm)  x  4.9  in.  (124  mm)  x  3.1  in.  (78.5  mm)
+ 
+Approx. Weight
+32.3  oz.  (915  g)
+camera body only
+Collapse all specs
+ Collapse Type
+Type Single-lens reflex digital camera
+Lens Mount Nikon F bayonet mount
+ Collapse Image Sensor
+Effective Pixels (Megapixels) 45.7  million
+Sensor Size 35.9  mm  x  23.9  mm
+Image Sensor Format FX
+Image Sensor Type CMOS
+Total Pixels 46.89  million
+Dust-Reduction System Image sensor cleaning 
+Image Dust Off reference data (optional Capture NX-D software required)
+Dust-Off Reference Photo Yes
+Image Area (pixels) FX-format
+(L)  8,256 x 5,504 (45.4 million) 
+(M)  6,192 x 4,128 (25.5 million) 
+(S)  4,128 x 2,752 (11.3 million) 
+1:2 format  (30 x 20)
+(L)  6,880 x 4,584 (31.5 million) 
+(M)  5,152 x 3,432 (17.6 million) 
+(S)  3,440 x 2,288 (7.8 million) 
+5:4 format (30 x 24)
+(L)  6,880 x 5,504 (37.8 million) 
+(M)  5,152 x 4,120 (21.2 million) 
+(S)  3,440 x 2,752 (9.4 million) 
+1:1 format (24 x 24)
+(L)  5,504 x 5,504 (30.2 million) 
+(M)  4,128 x 4,128 (17.0 million) 
+(S)  2,752 x 2,752 (7.5 million) 
+DX-format
+(L)  5,408 x 3,600 (19.4 million) 
+(M)  4,048 x 2,696 (10.9 million) 
+(S)  2,704 x 1,800 (4.8 million) 
+
+FX-format photographs taken during movie recording
+(L)   8,256 x 4,640 (38.3 million) 
+(M)  6,192 x 3,480 (21.5 million) 
+(S)  4,128 x 2,320 (9.5 million) 
+
+DX-format photographs taken during movie recording
+(L)   5,408 x 3,040 (16.4 million) 
+(M)  4,048 x 2,272 (9.1 million) 
+(S)  2,704 x 1,520 (4.1 million) 
+ Collapse File System
+File Format Still Images JPEG: JPEG-Baseline compliant with fine (approx 1:4), normal (approx 1:8), or basic (approx 1:16) compression (Size priority); Optimal quality compression available 
+NEF (RAW) + JPEG: Single Photograph Recorded in both NEF (RAW) and JPEG Formats 
+NEF (RAW): 12 or 14 bit, lossless compressed, compressed, or uncompressed; large, medium, and small available (medium and small images are recorded at a bit depth of 12 bits using lossless compression) 
+TIFF (RGB)
+Storage Media 1 XQD card and 1 Secure Digital (SD) card 
+SD 
+SDHC (UHS-II compliant) 
+SDXC (UHS-II compliant) 
+XQD Type Memory
+Card Slot Either card can be used for primary or backup storage or for separate storage of NEF (RAW) and JPEG images; pictures can be copied between cards.
+File System Compliant with  DCF (Design Rule for Camera File System) 2.0 
+EXIF 2.31 (Exchangeable Image File Format for Digital Still Cameras) 
+PictBridge
+ Collapse Viewfinder
+Viewfinder Eye-level Pentaprism Single-Lens Reflex Viewfinder
+Viewfinder Frame Coverage FX (36x24):  100% horizontal and 100% vertical  (Approx.)
+1.2x (30x20):  97% horizontal and 97% vertical  (Approx.)
+DX (24x16):  97% horizontal and 97% vertical  (Approx.)
+5:4 (30x24):  97% horizontal and 100% vertical  (Approx.)
+1:1 (24x24):  97% horizontal and 100% vertical  (Approx.)
+Viewfinder Magnification 0.75x (50 mm f/1.4 lens at infinity, –1.0 m–1)  (Approx.) 
+Viewfinder Eyepoint 17 mm (-1.0 m¯¹)
+Viewfinder Diopter Adjustment -3 to + 1m¯¹
+Focusing Screen Type B BriteView Clear Matte Mark VIII with AF Area Brackets (grid lines can be displayed)
+Reflex Mirror Quick-return type
+Mirror Lock Up Yes
+ Collapse Lens
+Lens Aperture Instant-return type 
+Electronically Controlled
+Depth-of-field Control Yes 
+Pressing Pv button stops lens aperture down to value selected by user (A and M modes) or by camera (other modes)
+Lens Compatibility at a Glance*** AF-S or AF lenses fully compatible 
+Metering with AI lenses
+Compatible Lenses AF NIKKOR lenses, including type G, E, and D lenses (some restrictions apply to PC lenses), and DX lenses (using DX 24 x 16 image area), AI-P NIKKOR lenses, and non-CPU AI lenses (exposure modes A and M only). 
+Electronic rangefinder can be used with lenses that have a maximum aperture of f/5.6 or faster (the electronic rangefinder supports 15 focus points with lenses that have a maximum aperture of f/8 or faster, of which 9 points are available for selection). 
+IX NIKKOR lenses, lenses for the F3AF, and non-AI lenses cannot be used.
+ Collapse Shutter
+Shutter Type Electronically controlled vertical-travel focal-plane mechanical shutter 
+Electronic front-curtain shutter available in quiet shutter-release, quiet continuous shutter-release, and mirror up release modes
+Shutter Speed 1/8000 to 30 sec. in steps of 1/3, 1/2, or 1 EV, Bulb, Time, X250
+Fastest Shutter Speed 1/8000  sec.
+Slowest Shutter Speed 30  sec.
+Flash Sync Speed Up to  1/250 sec. 
+Synchronizes with shutter at 1/250s or slower 
+Auto FP High-Speed sync supported
+Bulb Shutter Setting Yes
+Shutter Release Modes Continuous low-speed [CL] mode 
+Continuous high-speed [CH] mode 
+Mirror-up [Mup] mode 
+Quiet Shutter Release 
+Quiet Continuous Release 
+Self-timer Mode 
+Single-frame [S] mode
+Continuous Shooting Options FX-format
+CH: Up to  9  frames per second
+
+With an EN-EL18b Battery inserted in a MB-D18 Power Pack:
+  CL: 1-8 frames per second 
+CH: 9 frames per second 
+Quiet Continuous Mode: 3 frames per second 
+Other power sources:
+  CL: 1-6 frames per second 
+CH: 7 frames per second 
+Quiet Continuous Mode: 3 frames per second
+Top Continuous Shooting Speed at full resolution 7  frames per second
+Self-timer 2, 5, 10, 20 sec.; 1 to 9 exposures at intervals of 0.5, 1, 2, or 3 sec. 
+Timer duration electronically controlled
+ Collapse Exposure
+Exposure Metering System TTL exposure metering using approximately 180K (180,000) pixels RGB sensor
+Metering Method Center-weighted: Weight of 75% given to 12 mm circle in center of frame. Diameter of circle can be changed to 8, 15, or 20 mm, or weighting can be based on average of entire frame (non-CPU lenses use 12-mm circle) 
+Matrix: 3D Color Matrix Metering III (type G, E, and D lenses); Color Matrix Metering III (other CPU lenses); Color Matrix Metering available with non-CPU lenses if user provides lens data 
+Spot: Meters 4 mm circle (about 1.5% of frame) centered on selected focus point (on center focus point when non-CPU lens is used) 
+Highlight-weighted: Available with type G, E, and D lenses
+Metering Range ISO 100, f/1.4 lens, 20 °C/68 °F 
+-3 ± 20 EV (Matrix or center-weighted metering) 
+2 to 20 EV (spot metering) 
+0 to 20 EV (Highlight-weighted metering)
+Exposure Meter Coupling Combined CPU and AI
+Exposure Modes Aperture-Priority (A) 
+Manual (M) 
+Programmed auto with flexible program (P) 
+Shutter-Priority Auto (S)
+Exposure Compensation ±5 EV in increments of 1/3, 1/2 or 1 EV
+Exposure Bracketing 2 to 9 frames in steps of 1/3, 1/2, 2/3 or 1 EV 
+-2 EV in 1/3, 0.7, 1.0, 2.0, 3.0 step increments 
++2 EV in 1/3, 0.7, 1.0, 2.0, 3.0 step increments 
+-3 EV in 1/3, 0.7, 1.0, 2.0, 3.0 step increments 
++3 EV in 1/3, 0.7, 1.0, 2.0, 3.0 step increments
+Exposure Lock Yes
+Picture Control Auto 
+Flat 
+Landscape 
+Monochrome 
+Neutral 
+Portrait 
+Standard 
+Vivid
+ Collapse Sensitivity
+ISO Sensitivity ISO  64  -  25,600 
+Can also be set to approx. 0.3, 0.5, 0.7, or 1 EV (ISO 32 equivalent) below ISO 64 or to approx. 0.3, 0.5, 0.7, 1, or 2 EV (ISO 102,400 equivalent) above ISO 25,600; auto ISO sensitivity control available 
+Lowest Standard ISO Sensitivity 64
+Highest Standard ISO Sensitivity 25,600
+Lowest Expanded ISO Sensitivity Lo-1 (ISO 32 equivalent)
+Highest Expanded ISO Sensitivity Hi-2 (ISO 102,400 equivalent)
+Expanded ISO Sensitivity Options Lo-1 (ISO 32 equivalent) 
+Hi-1 (ISO-51,200 equivalent) 
+Hi-2 (ISO-102,400 equivalent)
+Long Exposure Noise Reduction Yes
+High ISO Noise Reduction Low 
+Normal 
+High 
+Off
+Active D-Lighting Auto 
+Extra High 
+High 
+Normal 
+Low 
+Off
+D-Lighting Bracketing 2 frames using selected value for one frame 
+3–5 frames using preset values for all frames
+ Collapse Focus/Autofocus
+Single-Point AF Mode Yes
+Dynamic AF Mode Number of AF points: 9, 25, 72, or 153 point dynamic-area AF, 3D-tracking, group-area AF
+Auto-Area AF Mode Yes
+Autofocus System Nikon Advanced Multi-CAM 20K autofocus sensor module with TTL phase detection and fine-tuning, and 153 focus points (including 99 cross-type sensors and 15 sensors that support f/8), of which 55 (35 cross-type sensors and 9 f/8 sensors) are available for selection
+Detection Range -4 to +20 EV (ISO 100, 68°F/20°C)
+Lens Servo Autofocus (AF): Single-servo AF (AF-S); Continuous-servo AF (AF-C); auto AF-S/AF-C selection (AF-A); predictive focus tracking activated automatically according to subject status 
+Manual focus (MF): Electronic rangefinder can be used
+AF-area Mode 9, 25, 72, or 153 point Dynamic-area AF 
+Auto-area AF 
+Single-point AF 
+3D-tracking 
+Group-area AF
+Focus Lock Focus can be locked by pressing shutter-release button halfway (single-servo AF) or by pressing the center of the sub-selector
+Focus Modes Continuous-servo (AF-C) 
+Face-Priority AF 
+Full-time Servo (AF-F) 
+Manual (M) with electronic rangefinder 
+Normal area AF 
+Predictive focus tracking activated automatically according to subject status 
+Single-servo AF (AF-S) 
+Wide area available in Live View and D-Movie only
+Maximum Autofocus Areas/Points 153
+Autofocus Sensitivity -4 to +20 EV (ISO 100, 20°C/68°F)
+Autofocus Fine Tune Yes
+ Collapse Flash
+Flash Bracketing 2 to 9 frames in steps of 1/3, 1/2, 2/3, or 1 EV
+X-Sync Speed 1/250
+Top FP High Speed Sync Up to  1/8000
+Flash Control TTL: i-TTL flash control using RGB sensor with approximately 180K (180,000) pixels; i-TTL balanced fill-flash for digital SLR is used with matrix, center-weighted, and highlight-weighted metering, standard i-TTL fill-flash for digital SLR with spot metering
+Flash Sync Modes Front-curtain sync (normal) 
+Rear-curtain sync 
+Red-Eye reduction 
+Red-Eye reduction with slow sync 
+Slow sync
+Flash Compensation -3 to +1 EV in increments of 1/3, 1/2 or 1 EV
+Flash-ready Indicator Lights when optional flash unit is fully charged; flashes after flash is fired at full output
+Accessory Shoe Yes
+Nikon Creative Lighting System (CLS) CLS Supported
+Flash Sync Terminal Yes
+ Collapse White Balance
+White Balance Auto (3 types) 
+Choose color temperature (2500K–10000K) 
+Cloudy 
+Direct Sunlight 
+Fine-tuning 
+Flash 
+Fluorescent (7 types) 
+Incandescent 
+Natural Light Auto 
+Preset manual (up to 6 values can be stored, spot white balance measurement available during live view) 
+Shade
+White Balance Bracketing 2 to 9 exposures in increments of 1, 2 or 3 EV
+ Collapse Live View
+Live View Shooting Photography Live View Mode 
+Movie Live View Mode
+Live View Lens Servo Autofocus (AF): Single-servo AF (AF-S); full-time-servo AF (AF-F) 
+Manual focus (MF)
+Live View AF-Area Mode Face-priority AF 
+Wide-area AF 
+Normal-area AF 
+Pinpoint AF 
+Subject-tracking AF
+Live View Autofocus Contrast-detect AF anywhere in frame (camera selects focus point automatically when face-priority AF or subject-tracking AF is selected)
+ Collapse Movie
+Movie Metering TTL exposure metering using main image sensor
+Movie Maximum Recording Time 29 minutes 59 seconds 
+Each movie will be recorded across up to 8 files of up to 4 GB each. The number of files and the length of each file vary with the options selected for Frame size/frame rate and Movie quality.
+Movie File Format MOV 
+MP4
+Movie Video Compression H.264/MPEG-4 Advanced Video Coding
+Movie Audio Recording Format Linear PCM 
+AAC
+Movie 4K UHD 3,840x2,160 / 30 fps 
+4K UHD 3,840x2,160 / 25 fps 
+4K UHD 3,840x2,160 / 24 fps 
+Full HD 1,920x1,080 / 60 fps 
+Full HD 1,920x1,080 / 50 fps 
+Full HD 1,920x1,080 / 30 fps 
+Full HD 1,920x1,080 / 25 fps 
+Full HD 1,920x1,080 / 24 fps 
+HD 1,280x720 / 60 fps 
+HD 1,280x720 / 50 fps 
+Slow-motion: Full HD 1,920x1,080 30p (x4) 
+Slow-motion: Full HD 1,920x1,080 25p (x4) 
+Slow-motion: Full HD 1,920x1,080 24p (x5) 
+Actual frame rates for 60p, 50p, 30p, 25p, and 24p are 59.94, 50, 29.97, 25, and 23.976 fps respectively 
+Quality selection available at all sizes except 3,840 x 2,160 (when quality is fixed at high) and 1,920 x 1,080 slow-motion (when quality is fixed at normal)
+Movie Audio Built-in microphone, stereo 
+External stereo microphone (optional) 
+Microphone sensitivity can be adjusted
+ Collapse Monitor
+Monitor Size 3.2  in. diagonal
+Monitor Resolution 2,359,000  Dots
+Monitor Type Tilting TFT touch-sensitive LCD
+Monitor Angle of View 170 -degree wide-viewing angle
+Monitor Adjustments Brightness,  5  levels
+Virtual Horizon Camera Indicator Yes 
+Also visible in LiveView Modes 
+Also visible in Viewfinder
+ Collapse Playback
+Playback Functions Auto Image Rotation 
+Full-frame and thumbnail (4, 9, or 72 images) 
+Highlights 
+Histogram Display 
+Location Display 
+Movie Playback 
+Movie Slideshow 
+Photo Information 
+Photo Slideshow 
+Picture Rating 
+Playback with Zoom 
+Playback Zoom Cropping
+In-Camera Image Editing D-Lighting 
+Distortion Control 
+Filter Effects 
+Image Overlay 
+Monochrome 
+NEF (RAW) Processing 
+Perspective Control 
+Red-Eye Correction 
+Resize 
+Side-by-Side Comparison 
+Straighten 
+Trim 
+Trim Movie
+Image Comment Yes
+ Collapse Interface
+Interface Audio input: Stereo mini-pin jack (3.5 mm diameter; plug-in power supported) 
+HDMI output: Type C mini-pin HDMI connector 
+Headphone Connector 
+SuperSpeed USB (USB 3.0 Micro-B connector); connection to built-in USB port is recommended 
+Ten-pin remote terminal: Can be used to connect optional MC-30A/ MC-36A remote cords, ML-3 modulite remote control sets, WR-R10 (requires WR-A10 adapter) or WR-1 wireless remote controllers, or GP-1/ GP-1A GPS units
+Wi-Fi Functionality Standards: IEEE 802.11b, IEEE 802.11g 
+Operating frequency: 2412–2462 MHz (channels 1–11) 
+Maximum output power: 8.5 dBm (EIRP) 
+Authentication: Open system, WPA2-PSK
+Smart Device App Connectivity SnapBridge
+Bluetooth Yes 
+Communication protocols: Bluetooth Specification Version 4.1 
+Operating frequency: Bluetooth: 2402–2480 MHz 
+Bluetooth Low Energy: 2402–2480 MHz
+GPS GP-1 GPS unit 
+GP-1A GPS unit
+Save/Load Camera settings Yes
+ Collapse Menus
+Total Custom Settings 55
+My Menu Yes with customization
+Recent Settings Yes
+Supported Languages Arabic 
+Bengali 
+Brazilian Portuguese 
+Bulgarian 
+Chinese (Simplified and Traditional) 
+Czech 
+Danish 
+Dutch 
+English 
+Finnish 
+French 
+German 
+Greek 
+Hindi 
+Hungarian 
+Indonesian 
+Italian 
+Japanese 
+Korean 
+Marathi 
+Norwegian 
+Persian 
+Polish 
+Portuguese 
+Romanian 
+Russian 
+Serbian 
+Spanish 
+Swedish 
+Tamil 
+Telugu 
+Thai 
+Turkish 
+Ukrainian 
+Vietnamese
+Date, Time and Daylight Savings Time Settings Yes
+World Time Setting Yes
+ Collapse Power
+Battery / Batteries EN-EL15a Rechargeable Li-ion Battery
+Battery Life (shots per charge) 1,840  shots (CIPA)  
+Movies:  Approx. 70 minutes of HD footage
+AC Adapter EH-5c/EH-5b AC Adapter; requires EP-5B Power Connector (available separately)
+Battery Charger MH-25a Quick Charger
+ Collapse Miscellaneous
+Tripod Socket 1/4 in.
+Approx. Dimensions (Width x Height x Depth) 5.8  in.  (146  mm)  x  4.9  in.  (124  mm)  x  3.1  in.  (78.5  mm)
+Approx. Weight 32.3  oz.  (915  g)
+camera body only
+Operating Environment Temperature: 32 to 104°F (0 to 40°C) 
+Humidity: Less than 85% (no condensation)
